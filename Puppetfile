@@ -6,5 +6,5 @@
 
  mod "stahnma/epel"
 
- mod 'apache'
+ mod 'apache',
   :git => 'https://github.com/puppetlabs/puppetlabs-apache'
